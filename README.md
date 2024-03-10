@@ -4,7 +4,8 @@
 
 ## Overview
 
-My dotfiles
+Omemoji's Dotfiles
+Reference for ricing Ubuntu 22.04.4 LTS x86_64 for the first time
 
 ## Supported OS
 
